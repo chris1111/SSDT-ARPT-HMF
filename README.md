@@ -8,7 +8,7 @@ Test by me on my HP Probook 650 G1 without Wifi patch on my DSDT.aml
 File to place in EFI/OC/ACPI and must be initialized in the config.plist
 
 Take a good look at the file opened with MaciASL.app
-The arrow indicates the Device ID what is highlighted is the device of an Azurewave BCM94352HMB Wifi Bluetooth compatible card in macOS
+##### The arrow indicates the Device ID what is highlighted is the device of an `Azurewave BCM94352HMB` Wifi Bluetooth compatible card in macOS
 
 ![SSDT-ARPT-HMF](https://github.com/chris1111/SSDT-ARPT-HMF/assets/6248794/1d2ebd4d-2472-4573-ad69-4b868175d3b3)
 
