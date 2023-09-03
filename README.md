@@ -1,6 +1,6 @@
 # SSDT-ARPT-HMF for Laptop and PC
 
-I create a [SSDT.aml](https://github.com/chris1111/SSDT-ARPT-HMF/blob/Master/SSDT-ARPT-HMF.aml)
+I create a [SSDT.aml](https://github.com/chris1111/SSDT-ARPT-HMF/blob/Master/SSDT-ARPT-HMF.txt)
 for those who don't use DSDT and may have issues
 Wifi card in macOS Sonoma 14 or any other version.
 
